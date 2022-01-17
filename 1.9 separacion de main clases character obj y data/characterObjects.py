@@ -1,5 +1,5 @@
 from  data import itemList, preClass
-
+#main file, main branch on GitHub
 class character():
 	def __init__(self,na,li,att,de,sp):#atributos base de cada personaje, contruidos al momento de creacion del objeto
 		self.name = na
